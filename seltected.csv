@@ -1,0 +1,34 @@
+﻿SL.TLF.CACT.NE.ZS;Labor force participation rate, total (% of total population ages 15+) (national estimate)
+SL.UEM.TOTL.ZS;Unemployment, total (% of total labor force) (modeled ILO estimate)
+SP.RUR.TOTL;Rural population
+SP.RUR.TOTL.ZS;Rural population (% of total population)
+SL.TLF.CACT.FM.ZS;Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
+SI.POV.GINI;Gini index
+SI.POV.DDAY;Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)
+EN.ATM.GHGT.ZG;Total greenhouse gas emissions (% change from 1990)
+SP.URB.GROW;Urban population growth (annual %)
+SH.DYN.MORT;Mortality rate, under-5 (per 1,000 live births)
+DT.ODA.ALLD.CD;Net official development assistance and official aid received (current US$)
+SM.POP.NETM;Net migration
+EG.ELC.ACCS.ZS;Access to electricity (% of population)
+EG.USE.PCAP.KG.OE;Energy use (kg of oil equivalent per capita)
+SP.POP.GROW;Population growth (annual %)
+NY.ADJ.NNTY.CD;Adjusted net national income (current US$)
+SE.PRE.ENRR;School enrollment, preprimary (% gross)
+GC.DOD.TOTL.GD.ZS;Central government debt, total (% of GDP)
+SH.MMR.RISK.ZS;Lifetime risk of maternal death (%)
+FP.CPI.TOTL.ZG;Inflation, consumer prices (annual %)
+SP.POP.DPND;Age dependency ratio (% of working-age population)
+SP.DYN.CBRT.IN;Birth rate, crude (per 1,000 people)
+SP.DYN.CDRT.IN;Death rate, crude (per 1,000 people)
+SH.MED.BEDS.ZS;Hospital beds (per 1,000 people)
+LP.LPI.OVRL.XQ;Logistics performance index: Overall (1=low to 5=high)
+TM.TAX.MRCH.SM.AR.ZS;Tariff rate, applied, simple mean, all products (%)
+SL.TLF.TOTL.IN;Labor force, total
+MS.MIL.TOTL.P1;Armed forces personnel, total
+HD.HCI.OVRL;Human Capital Index (HCI) (scale 0-1)
+NE.TRD.GNFS.ZS;Trade (% of GDP)
+SH.STA.SUIC.FE.P5;Suicide mortality rate, female (per 100,000 female population)
+IT.NET.SECR;Secure Internet servers
+IC.BUS.NREG;New businesses registered (number)
+IP.PAT.RESD;Patent applications, residents
